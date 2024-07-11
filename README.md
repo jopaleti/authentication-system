@@ -13,8 +13,8 @@
 
 
 #### _**Steps to Run this Code**_
-```
 Install [Docker](https://docs.docker.com/get-docker/) on your PC
-Run docker-compose up
-Run go run main.go
+```
+>>> docker-compose up
+>>> go run main.go
 ```
